@@ -1,0 +1,4 @@
+<changeFiles>
+  <file path="./db/migrate/V1_add_new_column.js"/>
+  <file path="./db/migrate/V2_remove_column.js"/>
+</changeFiles>
